@@ -1,0 +1,900 @@
+{
+  "version": "1.0.0",
+  "questions": [
+    {
+      "id": "q1",
+      "text": "What kind of first impression do you want your fragrance to make?",
+      "options": [
+        {
+          "id": "fresh_clean",
+          "label": "Fresh, clean and approachable",
+          "scores": {
+            "freshness": 20,
+            "sweetness": 0,
+            "warmth": -10,
+            "intensity": -10,
+            "character": 5,
+            "elegance": 10
+          }
+        },
+        {
+          "id": "elegant",
+          "label": "Elegant and sophisticated",
+          "scores": {
+            "freshness": 5,
+            "sweetness": 5,
+            "warmth": 5,
+            "intensity": 5,
+            "character": 15,
+            "elegance": 25
+          }
+        },
+        {
+          "id": "warm_inviting",
+          "label": "Warm and inviting",
+          "scores": {
+            "freshness": -10,
+            "sweetness": 15,
+            "warmth": 25,
+            "intensity": 5,
+            "character": 5,
+            "elegance": 5
+          }
+        },
+        {
+          "id": "mysterious",
+          "label": "Mysterious and intriguing",
+          "scores": {
+            "freshness": -10,
+            "sweetness": 5,
+            "warmth": 15,
+            "intensity": 15,
+            "character": 25,
+            "elegance": 10
+          }
+        },
+        {
+          "id": "bold",
+          "label": "Bold and unforgettable",
+          "scores": {
+            "freshness": -5,
+            "sweetness": 10,
+            "warmth": 10,
+            "intensity": 30,
+            "character": 20,
+            "elegance": 5
+          }
+        },
+        {
+          "id": "playful",
+          "label": "Playful and energetic",
+          "scores": {
+            "freshness": 20,
+            "sweetness": 15,
+            "warmth": 0,
+            "intensity": 10,
+            "character": 10,
+            "elegance": 0
+          }
+        }
+      ]
+    },
+    {
+      "id": "q2",
+      "text": "Which scent sounds most appealing?",
+      "options": [
+        {
+          "id": "citrus_air",
+          "label": "Fresh citrus and clean air",
+          "scores": {
+            "freshness": 30,
+            "sweetness": -5,
+            "warmth": -10,
+            "intensity": 0,
+            "character": 5,
+            "elegance": 5
+          },
+          "families": [
+            "citrus",
+            "aquatic"
+          ]
+        },
+        {
+          "id": "green_herbs",
+          "label": "Fresh herbs and green leaves",
+          "scores": {
+            "freshness": 20,
+            "sweetness": 0,
+            "warmth": -5,
+            "intensity": 0,
+            "character": 15,
+            "elegance": 5
+          },
+          "families": [
+            "aromatic",
+            "green"
+          ]
+        },
+        {
+          "id": "soft_flowers",
+          "label": "Soft flowers",
+          "scores": {
+            "freshness": 5,
+            "sweetness": 10,
+            "warmth": 5,
+            "intensity": 0,
+            "character": 10,
+            "elegance": 15
+          },
+          "families": [
+            "floral",
+            "musk",
+            "powdery"
+          ]
+        },
+        {
+          "id": "vanilla_amber",
+          "label": "Warm vanilla and amber",
+          "scores": {
+            "freshness": -10,
+            "sweetness": 25,
+            "warmth": 30,
+            "intensity": 10,
+            "character": 5,
+            "elegance": 10
+          },
+          "families": [
+            "amber",
+            "vanilla",
+            "gourmand"
+          ]
+        },
+        {
+          "id": "woods_leather_spice",
+          "label": "Woods, leather and spices",
+          "scores": {
+            "freshness": -10,
+            "sweetness": 0,
+            "warmth": 20,
+            "intensity": 20,
+            "character": 25,
+            "elegance": 15
+          },
+          "families": [
+            "woody",
+            "leather",
+            "spicy"
+          ]
+        },
+        {
+          "id": "sweet_fruit",
+          "label": "Sweet fruits and creamy notes",
+          "scores": {
+            "freshness": 10,
+            "sweetness": 30,
+            "warmth": 10,
+            "intensity": 5,
+            "character": 5,
+            "elegance": 5
+          },
+          "families": [
+            "fruity",
+            "gourmand",
+            "vanilla"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "q3",
+      "text": "How do you feel about sweetness?",
+      "absoluteDimension": "sweetness",
+      "options": [
+        {
+          "id": "very_little",
+          "label": "Very little sweetness",
+          "value": 5
+        },
+        {
+          "id": "little",
+          "label": "A little sweetness",
+          "value": 25
+        },
+        {
+          "id": "balanced",
+          "label": "Balanced sweetness",
+          "value": 50
+        },
+        {
+          "id": "noticeably_sweet",
+          "label": "Noticeably sweet",
+          "value": 75
+        },
+        {
+          "id": "very_sweet",
+          "label": "Give me the sweetness!",
+          "value": 100
+        }
+      ]
+    },
+    {
+      "id": "q4",
+      "text": "Imagine your ideal evening",
+      "options": [
+        {
+          "id": "ocean",
+          "label": "Ocean breeze",
+          "scores": {
+            "freshness": 25,
+            "sweetness": 0,
+            "warmth": -15,
+            "intensity": -5,
+            "character": 5,
+            "elegance": 5
+          },
+          "occasions": [
+            "outdoor"
+          ]
+        },
+        {
+          "id": "rooftop",
+          "label": "Rooftop restaurant",
+          "scores": {
+            "freshness": 10,
+            "sweetness": 0,
+            "warmth": 5,
+            "intensity": 5,
+            "character": 5,
+            "elegance": 20
+          },
+          "occasions": [
+            "date",
+            "formal"
+          ]
+        },
+        {
+          "id": "candlelit",
+          "label": "Candlelit dinner",
+          "scores": {
+            "freshness": 0,
+            "sweetness": 10,
+            "warmth": 20,
+            "intensity": 5,
+            "character": 5,
+            "elegance": 20
+          },
+          "occasions": [
+            "date",
+            "formal"
+          ]
+        },
+        {
+          "id": "lounge",
+          "label": "Cozy lounge",
+          "scores": {
+            "freshness": 0,
+            "sweetness": 10,
+            "warmth": 25,
+            "intensity": 10,
+            "character": 10,
+            "elegance": 10
+          },
+          "occasions": [
+            "date",
+            "nightlife"
+          ]
+        },
+        {
+          "id": "luxury_party",
+          "label": "Luxury party",
+          "scores": {
+            "freshness": 0,
+            "sweetness": 5,
+            "warmth": 10,
+            "intensity": 25,
+            "character": 15,
+            "elegance": 20
+          },
+          "occasions": [
+            "nightlife",
+            "formal"
+          ]
+        },
+        {
+          "id": "mysterious_setting",
+          "label": "Mysterious intimate setting",
+          "scores": {
+            "freshness": -5,
+            "sweetness": 5,
+            "warmth": 15,
+            "intensity": 15,
+            "character": 25,
+            "elegance": 10
+          },
+          "occasions": [
+            "date",
+            "nightlife"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "q5",
+      "text": "How noticeable should your fragrance be?",
+      "absoluteDimension": "intensity",
+      "options": [
+        {
+          "id": "subtle",
+          "label": "Very subtle",
+          "value": 10
+        },
+        {
+          "id": "skin_close",
+          "label": "Close to the skin",
+          "value": 30
+        },
+        {
+          "id": "noticeable_close",
+          "label": "Noticeable up close",
+          "value": 50
+        },
+        {
+          "id": "people_notice",
+          "label": "People should notice",
+          "value": 75
+        },
+        {
+          "id": "make_entrance",
+          "label": "Make an entrance",
+          "value": 100
+        }
+      ]
+    },
+    {
+      "id": "q6",
+      "text": "Which environment feels most like you?",
+      "options": [
+        {
+          "id": "beach",
+          "label": "Beach / ocean",
+          "scores": {
+            "freshness": 25,
+            "sweetness": 0,
+            "warmth": -10,
+            "intensity": 0,
+            "character": 5,
+            "elegance": 5
+          },
+          "occasions": [
+            "outdoor"
+          ]
+        },
+        {
+          "id": "garden",
+          "label": "Garden / nature",
+          "scores": {
+            "freshness": 15,
+            "sweetness": 0,
+            "warmth": -5,
+            "intensity": 0,
+            "character": 15,
+            "elegance": 5
+          },
+          "families": [
+            "green",
+            "aromatic"
+          ]
+        },
+        {
+          "id": "city",
+          "label": "Modern city",
+          "scores": {
+            "freshness": 5,
+            "sweetness": 0,
+            "warmth": 0,
+            "intensity": 5,
+            "character": 10,
+            "elegance": 15
+          },
+          "occasions": [
+            "office",
+            "everyday"
+          ]
+        },
+        {
+          "id": "luxury_hotel",
+          "label": "Luxury hotel",
+          "scores": {
+            "freshness": 0,
+            "sweetness": 0,
+            "warmth": 10,
+            "intensity": 5,
+            "character": 15,
+            "elegance": 30
+          },
+          "occasions": [
+            "formal",
+            "date"
+          ]
+        },
+        {
+          "id": "cozy_home",
+          "label": "Cozy home",
+          "scores": {
+            "freshness": -5,
+            "sweetness": 10,
+            "warmth": 25,
+            "intensity": -10,
+            "character": 5,
+            "elegance": 5
+          },
+          "occasions": [
+            "everyday"
+          ]
+        },
+        {
+          "id": "nightlife",
+          "label": "Nightlife / events",
+          "scores": {
+            "freshness": 0,
+            "sweetness": 5,
+            "warmth": 10,
+            "intensity": 25,
+            "character": 20,
+            "elegance": 10
+          },
+          "occasions": [
+            "nightlife"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "q7",
+      "text": "Pick a wardrobe",
+      "options": [
+        {
+          "id": "white_shirt",
+          "label": "White shirt, jeans, sneakers",
+          "scores": {
+            "freshness": 15,
+            "sweetness": 0,
+            "warmth": 0,
+            "intensity": -10,
+            "character": 5,
+            "elegance": 5
+          }
+        },
+        {
+          "id": "linen",
+          "label": "Linen and relaxed",
+          "scores": {
+            "freshness": 20,
+            "sweetness": 0,
+            "warmth": 5,
+            "intensity": 0,
+            "character": 5,
+            "elegance": 5
+          }
+        },
+        {
+          "id": "smart_casual",
+          "label": "Smart casual",
+          "scores": {
+            "freshness": 5,
+            "sweetness": 0,
+            "warmth": 0,
+            "intensity": 0,
+            "character": 10,
+            "elegance": 15
+          }
+        },
+        {
+          "id": "tailored",
+          "label": "Tailored and sophisticated",
+          "scores": {
+            "freshness": 0,
+            "sweetness": 0,
+            "warmth": 0,
+            "intensity": 5,
+            "character": 15,
+            "elegance": 30
+          }
+        },
+        {
+          "id": "statement",
+          "label": "Statement pieces",
+          "scores": {
+            "freshness": 0,
+            "sweetness": 0,
+            "warmth": 5,
+            "intensity": 20,
+            "character": 25,
+            "elegance": 10
+          }
+        },
+        {
+          "id": "dark_minimal",
+          "label": "Dark, elegant and minimalist",
+          "scores": {
+            "freshness": 0,
+            "sweetness": 0,
+            "warmth": 10,
+            "intensity": 15,
+            "character": 25,
+            "elegance": 25
+          }
+        }
+      ]
+    },
+    {
+      "id": "q8",
+      "text": "When would you use your ideal fragrance most?",
+      "absoluteOccasion": true,
+      "options": [
+        {
+          "id": "everyday",
+          "label": "Everyday",
+          "occasion": "everyday"
+        },
+        {
+          "id": "office",
+          "label": "Work / office",
+          "occasion": "office"
+        },
+        {
+          "id": "date",
+          "label": "Dates / romance",
+          "occasion": "date"
+        },
+        {
+          "id": "nightlife",
+          "label": "Parties / nightlife",
+          "occasion": "nightlife"
+        },
+        {
+          "id": "formal",
+          "label": "Special occasions",
+          "occasion": "formal"
+        },
+        {
+          "id": "versatile",
+          "label": "Everything",
+          "occasion": "versatile"
+        }
+      ]
+    },
+    {
+      "id": "q9",
+      "text": "Which combination sounds best?",
+      "options": [
+        {
+          "id": "lemon_musk",
+          "label": "Lemon + bergamot + clean musk",
+          "scores": {
+            "freshness": 30,
+            "sweetness": -5,
+            "warmth": -5,
+            "intensity": 5,
+            "character": 10,
+            "elegance": 10
+          },
+          "families": [
+            "citrus",
+            "musk"
+          ],
+          "notes": [
+            "lemon",
+            "bergamot",
+            "musk"
+          ]
+        },
+        {
+          "id": "lavender_woods",
+          "label": "Lavender + herbs + woods",
+          "scores": {
+            "freshness": 15,
+            "sweetness": 0,
+            "warmth": 0,
+            "intensity": 5,
+            "character": 20,
+            "elegance": 15
+          },
+          "families": [
+            "aromatic",
+            "woody"
+          ],
+          "notes": [
+            "lavender",
+            "woods"
+          ]
+        },
+        {
+          "id": "rose_jasmine",
+          "label": "Rose + jasmine + soft musk",
+          "scores": {
+            "freshness": 5,
+            "sweetness": 10,
+            "warmth": 5,
+            "intensity": 5,
+            "character": 15,
+            "elegance": 25
+          },
+          "families": [
+            "floral",
+            "musk"
+          ],
+          "notes": [
+            "rose",
+            "jasmine",
+            "musk"
+          ]
+        },
+        {
+          "id": "vanilla_tonka",
+          "label": "Vanilla + amber + tonka",
+          "scores": {
+            "freshness": -5,
+            "sweetness": 30,
+            "warmth": 30,
+            "intensity": 10,
+            "character": 10,
+            "elegance": 15
+          },
+          "families": [
+            "vanilla",
+            "amber",
+            "gourmand"
+          ],
+          "notes": [
+            "vanilla",
+            "amber",
+            "tonka"
+          ]
+        },
+        {
+          "id": "oud_leather",
+          "label": "Oud + spices + leather",
+          "scores": {
+            "freshness": -10,
+            "sweetness": 0,
+            "warmth": 30,
+            "intensity": 30,
+            "character": 35,
+            "elegance": 20
+          },
+          "families": [
+            "oud",
+            "spicy",
+            "leather"
+          ],
+          "notes": [
+            "oud",
+            "leather"
+          ]
+        },
+        {
+          "id": "apple_vanilla",
+          "label": "Apple + berries + vanilla",
+          "scores": {
+            "freshness": 10,
+            "sweetness": 30,
+            "warmth": 10,
+            "intensity": 10,
+            "character": 10,
+            "elegance": 5
+          },
+          "families": [
+            "fruity",
+            "vanilla",
+            "gourmand"
+          ],
+          "notes": [
+            "apple",
+            "vanilla"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "q10",
+      "text": "How adventurous are you?",
+      "absoluteDimension": "exploration",
+      "options": [
+        {
+          "id": "familiar",
+          "label": "Keep it familiar",
+          "value": 10
+        },
+        {
+          "id": "subtle_experiment",
+          "label": "Subtle experimentation",
+          "value": 30
+        },
+        {
+          "id": "open",
+          "label": "Open to new things",
+          "value": 50
+        },
+        {
+          "id": "unusual",
+          "label": "Love unusual fragrances",
+          "value": 75
+        },
+        {
+          "id": "unique",
+          "label": "Nobody else should be wearing it",
+          "value": 100
+        }
+      ]
+    },
+    {
+      "id": "q11",
+      "text": "What do you want your fragrance to feel like?",
+      "options": [
+        {
+          "id": "clean",
+          "label": "Clean",
+          "scores": {
+            "freshness": 25,
+            "sweetness": 0,
+            "warmth": 0,
+            "intensity": -5,
+            "character": 5,
+            "elegance": 10
+          }
+        },
+        {
+          "id": "energizing",
+          "label": "Energizing",
+          "scores": {
+            "freshness": 20,
+            "sweetness": 0,
+            "warmth": 0,
+            "intensity": 10,
+            "character": 5,
+            "elegance": 5
+          }
+        },
+        {
+          "id": "comforting",
+          "label": "Comforting",
+          "scores": {
+            "freshness": -5,
+            "sweetness": 15,
+            "warmth": 20,
+            "intensity": -5,
+            "character": 5,
+            "elegance": 5
+          }
+        },
+        {
+          "id": "sensual",
+          "label": "Sensual",
+          "scores": {
+            "freshness": -5,
+            "sweetness": 15,
+            "warmth": 20,
+            "intensity": 15,
+            "character": 10,
+            "elegance": 10
+          }
+        },
+        {
+          "id": "powerful",
+          "label": "Powerful",
+          "scores": {
+            "freshness": 0,
+            "sweetness": 0,
+            "warmth": 5,
+            "intensity": 30,
+            "character": 15,
+            "elegance": 10
+          }
+        },
+        {
+          "id": "luxurious",
+          "label": "Luxurious",
+          "scores": {
+            "freshness": 0,
+            "sweetness": 0,
+            "warmth": 5,
+            "intensity": 5,
+            "character": 15,
+            "elegance": 30
+          }
+        },
+        {
+          "id": "mysterious",
+          "label": "Mysterious",
+          "scores": {
+            "freshness": -5,
+            "sweetness": 0,
+            "warmth": 10,
+            "intensity": 15,
+            "character": 30,
+            "elegance": 10
+          }
+        },
+        {
+          "id": "playful",
+          "label": "Playful",
+          "scores": {
+            "freshness": 15,
+            "sweetness": 20,
+            "warmth": 0,
+            "intensity": 5,
+            "character": 10,
+            "elegance": 0
+          }
+        }
+      ]
+    },
+    {
+      "id": "q12",
+      "text": "If you could only choose one...",
+      "options": [
+        {
+          "id": "everyone_loves",
+          "label": "A fragrance everyone loves",
+          "scores": {
+            "freshness": 5,
+            "sweetness": 0,
+            "warmth": 0,
+            "intensity": 5,
+            "character": 0,
+            "elegance": 10
+          }
+        },
+        {
+          "id": "uniquely_you",
+          "label": "Something uniquely you",
+          "scores": {
+            "freshness": 0,
+            "sweetness": 0,
+            "warmth": 0,
+            "intensity": 5,
+            "character": 30,
+            "elegance": 5
+          }
+        },
+        {
+          "id": "compliments",
+          "label": "A fragrance that gets compliments",
+          "scores": {
+            "freshness": 0,
+            "sweetness": 5,
+            "warmth": 5,
+            "intensity": 20,
+            "character": 20,
+            "elegance": 5
+          }
+        },
+        {
+          "id": "confidence",
+          "label": "Something that makes you confident",
+          "scores": {
+            "freshness": 0,
+            "sweetness": 0,
+            "warmth": 5,
+            "intensity": 15,
+            "character": 10,
+            "elegance": 20
+          }
+        },
+        {
+          "id": "remembered",
+          "label": "Something people remember",
+          "scores": {
+            "freshness": 0,
+            "sweetness": 0,
+            "warmth": 5,
+            "intensity": 20,
+            "character": 30,
+            "elegance": 10
+          }
+        }
+      ]
+    }
+  ]
+}
