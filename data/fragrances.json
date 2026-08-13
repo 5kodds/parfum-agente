@@ -1,0 +1,1593 @@
+{
+  "version": "1.0.0",
+  "fragrances": [
+    {
+      "id": "dior-sauvage-eau-de-toilette",
+      "brand": "Dior",
+      "name": "Sauvage Eau de Toilette",
+      "positioning": "masculine",
+      "families": [
+        "aromatic",
+        "citrus",
+        "woody"
+      ],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [
+          "bergamot",
+          "pepper",
+          "lavender",
+          "ambroxan",
+          "cedar"
+        ]
+      },
+      "scentDNA": {
+        "freshness": 82,
+        "sweetness": 28,
+        "warmth": 42,
+        "intensity": 78,
+        "character": 76,
+        "elegance": 78
+      },
+      "exploration": 70,
+      "occasions": {
+        "everyday": 100,
+        "office": 100,
+        "date": 0,
+        "nightlife": 100,
+        "formal": 0,
+        "outdoor": 0,
+        "versatile": 0
+      },
+      "seasons": {
+        "spring": 100,
+        "summer": 100,
+        "autumn": 100,
+        "winter": 100
+      },
+      "confidence": 0.75,
+      "retailers": [],
+      "sources": [],
+      "lastVerified": null,
+      "webGroundingAllowed": true
+    },
+    {
+      "id": "dior-sauvage-eau-de-parfum",
+      "brand": "Dior",
+      "name": "Sauvage Eau de Parfum",
+      "positioning": "masculine",
+      "families": [
+        "aromatic",
+        "citrus",
+        "woody",
+        "amber"
+      ],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [
+          "bergamot",
+          "vanilla",
+          "ambroxan",
+          "spices"
+        ]
+      },
+      "scentDNA": {
+        "freshness": 72,
+        "sweetness": 42,
+        "warmth": 58,
+        "intensity": 82,
+        "character": 80,
+        "elegance": 82
+      },
+      "exploration": 62,
+      "occasions": {
+        "everyday": 100,
+        "office": 0,
+        "date": 100,
+        "nightlife": 100,
+        "formal": 0,
+        "outdoor": 0,
+        "versatile": 0
+      },
+      "seasons": {
+        "spring": 100,
+        "summer": 0,
+        "autumn": 100,
+        "winter": 100
+      },
+      "confidence": 0.75,
+      "retailers": [],
+      "sources": [],
+      "lastVerified": null,
+      "webGroundingAllowed": true
+    },
+    {
+      "id": "bleu-de-chanel-eau-de-parfum",
+      "brand": "Bleu de Chanel",
+      "name": "Eau de Parfum",
+      "positioning": "masculine",
+      "families": [
+        "citrus",
+        "aromatic",
+        "woody"
+      ],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [
+          "citrus",
+          "ginger",
+          "cedar",
+          "sandalwood"
+        ]
+      },
+      "scentDNA": {
+        "freshness": 78,
+        "sweetness": 25,
+        "warmth": 48,
+        "intensity": 68,
+        "character": 80,
+        "elegance": 94
+      },
+      "exploration": 58,
+      "occasions": {
+        "everyday": 100,
+        "office": 100,
+        "date": 100,
+        "nightlife": 0,
+        "formal": 100,
+        "outdoor": 0,
+        "versatile": 0
+      },
+      "seasons": {
+        "spring": 100,
+        "summer": 100,
+        "autumn": 100,
+        "winter": 100
+      },
+      "confidence": 0.75,
+      "retailers": [],
+      "sources": [],
+      "lastVerified": null,
+      "webGroundingAllowed": true
+    },
+    {
+      "id": "chanel-coco-mademoiselle-eau-de-parfum",
+      "brand": "Chanel",
+      "name": "Coco Mademoiselle Eau de Parfum",
+      "positioning": "feminine",
+      "families": [
+        "citrus",
+        "floral",
+        "woody",
+        "amber"
+      ],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [
+          "orange",
+          "rose",
+          "jasmine",
+          "patchouli",
+          "vetiver"
+        ]
+      },
+      "scentDNA": {
+        "freshness": 72,
+        "sweetness": 48,
+        "warmth": 52,
+        "intensity": 68,
+        "character": 82,
+        "elegance": 94
+      },
+      "exploration": 55,
+      "occasions": {
+        "everyday": 100,
+        "office": 100,
+        "date": 100,
+        "nightlife": 0,
+        "formal": 100,
+        "outdoor": 0,
+        "versatile": 0
+      },
+      "seasons": {
+        "spring": 100,
+        "summer": 0,
+        "autumn": 100,
+        "winter": 100
+      },
+      "confidence": 0.75,
+      "retailers": [],
+      "sources": [],
+      "lastVerified": null,
+      "webGroundingAllowed": true
+    },
+    {
+      "id": "chanel-chance-eau-tendre-eau-de-parfum",
+      "brand": "Chanel",
+      "name": "Chance Eau Tendre Eau de Parfum",
+      "positioning": "feminine",
+      "families": [
+        "floral",
+        "fruity",
+        "citrus",
+        "musk"
+      ],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [
+          "grapefruit",
+          "quince",
+          "jasmine",
+          "rose",
+          "musk"
+        ]
+      },
+      "scentDNA": {
+        "freshness": 86,
+        "sweetness": 45,
+        "warmth": 38,
+        "intensity": 50,
+        "character": 70,
+        "elegance": 88
+      },
+      "exploration": 45,
+      "occasions": {
+        "everyday": 100,
+        "office": 100,
+        "date": 100,
+        "nightlife": 0,
+        "formal": 0,
+        "outdoor": 0,
+        "versatile": 0
+      },
+      "seasons": {
+        "spring": 100,
+        "summer": 100,
+        "autumn": 0,
+        "winter": 0
+      },
+      "confidence": 0.75,
+      "retailers": [],
+      "sources": [],
+      "lastVerified": null,
+      "webGroundingAllowed": true
+    },
+    {
+      "id": "versace-eros-eau-de-toilette",
+      "brand": "Versace",
+      "name": "Eros Eau de Toilette",
+      "positioning": "masculine",
+      "families": [
+        "aromatic",
+        "citrus",
+        "woody",
+        "gourmand"
+      ],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [
+          "mint",
+          "green apple",
+          "tonka",
+          "vanilla",
+          "cedar"
+        ]
+      },
+      "scentDNA": {
+        "freshness": 68,
+        "sweetness": 70,
+        "warmth": 58,
+        "intensity": 86,
+        "character": 78,
+        "elegance": 72
+      },
+      "exploration": 48,
+      "occasions": {
+        "everyday": 100,
+        "office": 0,
+        "date": 100,
+        "nightlife": 100,
+        "formal": 0,
+        "outdoor": 0,
+        "versatile": 0
+      },
+      "seasons": {
+        "spring": 100,
+        "summer": 0,
+        "autumn": 100,
+        "winter": 100
+      },
+      "confidence": 0.75,
+      "retailers": [],
+      "sources": [],
+      "lastVerified": null,
+      "webGroundingAllowed": true
+    },
+    {
+      "id": "versace-dylan-blue-eau-de-toilette",
+      "brand": "Versace",
+      "name": "Dylan Blue Eau de Toilette",
+      "positioning": "masculine",
+      "families": [
+        "aromatic",
+        "aquatic",
+        "woody",
+        "citrus"
+      ],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [
+          "bergamot",
+          "grapefruit",
+          "black pepper",
+          "ambroxan",
+          "musk"
+        ]
+      },
+      "scentDNA": {
+        "freshness": 82,
+        "sweetness": 30,
+        "warmth": 45,
+        "intensity": 76,
+        "character": 72,
+        "elegance": 78
+      },
+      "exploration": 48,
+      "occasions": {
+        "everyday": 100,
+        "office": 100,
+        "date": 0,
+        "nightlife": 100,
+        "formal": 0,
+        "outdoor": 0,
+        "versatile": 0
+      },
+      "seasons": {
+        "spring": 100,
+        "summer": 100,
+        "autumn": 100,
+        "winter": 0
+      },
+      "confidence": 0.75,
+      "retailers": [],
+      "sources": [],
+      "lastVerified": null,
+      "webGroundingAllowed": true
+    },
+    {
+      "id": "versace-bright-crystal-eau-de-toilette",
+      "brand": "Versace",
+      "name": "Bright Crystal Eau de Toilette",
+      "positioning": "feminine",
+      "families": [
+        "floral",
+        "fruity",
+        "aquatic",
+        "musk"
+      ],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [
+          "yuzu",
+          "pomegranate",
+          "peony",
+          "magnolia",
+          "musk"
+        ]
+      },
+      "scentDNA": {
+        "freshness": 88,
+        "sweetness": 40,
+        "warmth": 32,
+        "intensity": 52,
+        "character": 62,
+        "elegance": 82
+      },
+      "exploration": 35,
+      "occasions": {
+        "everyday": 100,
+        "office": 100,
+        "date": 100,
+        "nightlife": 0,
+        "formal": 0,
+        "outdoor": 0,
+        "versatile": 0
+      },
+      "seasons": {
+        "spring": 100,
+        "summer": 100,
+        "autumn": 0,
+        "winter": 0
+      },
+      "confidence": 0.75,
+      "retailers": [],
+      "sources": [],
+      "lastVerified": null,
+      "webGroundingAllowed": true
+    },
+    {
+      "id": "dolce-gabbana-light-blue-eau-de-toilette",
+      "brand": "Dolce & Gabbana",
+      "name": "Light Blue Eau de Toilette",
+      "positioning": "feminine",
+      "families": [
+        "citrus",
+        "fruity",
+        "woody",
+        "aquatic"
+      ],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [
+          "lemon",
+          "apple",
+          "jasmine",
+          "cedar",
+          "musk"
+        ]
+      },
+      "scentDNA": {
+        "freshness": 94,
+        "sweetness": 25,
+        "warmth": 28,
+        "intensity": 62,
+        "character": 68,
+        "elegance": 78
+      },
+      "exploration": 42,
+      "occasions": {
+        "everyday": 100,
+        "office": 100,
+        "date": 0,
+        "nightlife": 0,
+        "formal": 0,
+        "outdoor": 100,
+        "versatile": 0
+      },
+      "seasons": {
+        "spring": 100,
+        "summer": 100,
+        "autumn": 0,
+        "winter": 0
+      },
+      "confidence": 0.75,
+      "retailers": [],
+      "sources": [],
+      "lastVerified": null,
+      "webGroundingAllowed": true
+    },
+    {
+      "id": "dolce-gabbana-light-blue-eau-intense-pour-homme",
+      "brand": "Dolce & Gabbana",
+      "name": "Light Blue Eau Intense Pour Homme",
+      "positioning": "masculine",
+      "families": [
+        "citrus",
+        "aquatic",
+        "woody"
+      ],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [
+          "mandarin",
+          "frozen grapefruit",
+          "juniper",
+          "amberwood",
+          "musk"
+        ]
+      },
+      "scentDNA": {
+        "freshness": 93,
+        "sweetness": 22,
+        "warmth": 28,
+        "intensity": 72,
+        "character": 68,
+        "elegance": 76
+      },
+      "exploration": 48,
+      "occasions": {
+        "everyday": 100,
+        "office": 100,
+        "date": 0,
+        "nightlife": 0,
+        "formal": 0,
+        "outdoor": 100,
+        "versatile": 0
+      },
+      "seasons": {
+        "spring": 100,
+        "summer": 100,
+        "autumn": 0,
+        "winter": 0
+      },
+      "confidence": 0.75,
+      "retailers": [],
+      "sources": [],
+      "lastVerified": null,
+      "webGroundingAllowed": true
+    },
+    {
+      "id": "jo-malone-london-wood-sage-sea-salt-cologne",
+      "brand": "Jo Malone London",
+      "name": "Wood Sage & Sea Salt Cologne",
+      "positioning": "unisex",
+      "families": [
+        "aquatic",
+        "woody",
+        "aromatic"
+      ],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [
+          "ambrette",
+          "sea salt",
+          "sage",
+          "grapefruit"
+        ]
+      },
+      "scentDNA": {
+        "freshness": 91,
+        "sweetness": 18,
+        "warmth": 28,
+        "intensity": 45,
+        "character": 78,
+        "elegance": 88
+      },
+      "exploration": 72,
+      "occasions": {
+        "everyday": 100,
+        "office": 100,
+        "date": 100,
+        "nightlife": 0,
+        "formal": 0,
+        "outdoor": 100,
+        "versatile": 0
+      },
+      "seasons": {
+        "spring": 100,
+        "summer": 100,
+        "autumn": 100,
+        "winter": 0
+      },
+      "confidence": 0.75,
+      "retailers": [],
+      "sources": [],
+      "lastVerified": null,
+      "webGroundingAllowed": true
+    },
+    {
+      "id": "jo-malone-london-english-pear-freesia-cologne",
+      "brand": "Jo Malone London",
+      "name": "English Pear & Freesia Cologne",
+      "positioning": "unisex",
+      "families": [
+        "fruity",
+        "floral",
+        "woody"
+      ],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [
+          "pear",
+          "freesia",
+          "rose",
+          "patchouli"
+        ]
+      },
+      "scentDNA": {
+        "freshness": 82,
+        "sweetness": 42,
+        "warmth": 40,
+        "intensity": 52,
+        "character": 72,
+        "elegance": 88
+      },
+      "exploration": 58,
+      "occasions": {
+        "everyday": 100,
+        "office": 100,
+        "date": 100,
+        "nightlife": 0,
+        "formal": 0,
+        "outdoor": 0,
+        "versatile": 0
+      },
+      "seasons": {
+        "spring": 100,
+        "summer": 0,
+        "autumn": 100,
+        "winter": 0
+      },
+      "confidence": 0.75,
+      "retailers": [],
+      "sources": [],
+      "lastVerified": null,
+      "webGroundingAllowed": true
+    },
+    {
+      "id": "le-labo-santal-33-eau-de-parfum",
+      "brand": "Le Labo",
+      "name": "Santal 33 Eau de Parfum",
+      "positioning": "unisex",
+      "families": [
+        "woody",
+        "powdery",
+        "leather",
+        "aromatic"
+      ],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [
+          "sandalwood",
+          "cedar",
+          "cardamom",
+          "leather",
+          "violet"
+        ]
+      },
+      "scentDNA": {
+        "freshness": 55,
+        "sweetness": 28,
+        "warmth": 72,
+        "intensity": 70,
+        "character": 96,
+        "elegance": 94
+      },
+      "exploration": 82,
+      "occasions": {
+        "everyday": 0,
+        "office": 100,
+        "date": 100,
+        "nightlife": 100,
+        "formal": 100,
+        "outdoor": 0,
+        "versatile": 0
+      },
+      "seasons": {
+        "spring": 100,
+        "summer": 0,
+        "autumn": 100,
+        "winter": 100
+      },
+      "confidence": 0.75,
+      "retailers": [],
+      "sources": [],
+      "lastVerified": null,
+      "webGroundingAllowed": true
+    },
+    {
+      "id": "le-labo-another-13-eau-de-parfum",
+      "brand": "Le Labo",
+      "name": "Another 13 Eau de Parfum",
+      "positioning": "unisex",
+      "families": [
+        "musk",
+        "woody",
+        "aromatic"
+      ],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [
+          "ambrette",
+          "musk",
+          "jasmine",
+          "moss"
+        ]
+      },
+      "scentDNA": {
+        "freshness": 70,
+        "sweetness": 22,
+        "warmth": 48,
+        "intensity": 60,
+        "character": 96,
+        "elegance": 92
+      },
+      "exploration": 86,
+      "occasions": {
+        "everyday": 100,
+        "office": 100,
+        "date": 100,
+        "nightlife": 0,
+        "formal": 100,
+        "outdoor": 0,
+        "versatile": 0
+      },
+      "seasons": {
+        "spring": 100,
+        "summer": 100,
+        "autumn": 100,
+        "winter": 100
+      },
+      "confidence": 0.75,
+      "retailers": [],
+      "sources": [],
+      "lastVerified": null,
+      "webGroundingAllowed": true
+    },
+    {
+      "id": "maison-francis-kurkdjian-baccarat-rouge-540-eau-de-parfum",
+      "brand": "Maison Francis Kurkdjian",
+      "name": "Baccarat Rouge 540 Eau de Parfum",
+      "positioning": "unisex",
+      "families": [
+        "amber",
+        "woody",
+        "floral"
+      ],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [
+          "jasmine",
+          "saffron",
+          "ambergris",
+          "cedar"
+        ]
+      },
+      "scentDNA": {
+        "freshness": 58,
+        "sweetness": 68,
+        "warmth": 72,
+        "intensity": 88,
+        "character": 94,
+        "elegance": 96
+      },
+      "exploration": 82,
+      "occasions": {
+        "everyday": 0,
+        "office": 0,
+        "date": 100,
+        "nightlife": 100,
+        "formal": 100,
+        "outdoor": 0,
+        "versatile": 0
+      },
+      "seasons": {
+        "spring": 100,
+        "summer": 0,
+        "autumn": 100,
+        "winter": 100
+      },
+      "confidence": 0.75,
+      "retailers": [],
+      "sources": [],
+      "lastVerified": null,
+      "webGroundingAllowed": true
+    },
+    {
+      "id": "tom-ford-oud-wood-eau-de-parfum",
+      "brand": "Tom Ford",
+      "name": "Oud Wood Eau de Parfum",
+      "positioning": "unisex",
+      "families": [
+        "woody",
+        "oud",
+        "spicy",
+        "amber"
+      ],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [
+          "oud",
+          "rosewood",
+          "cardamom",
+          "sandalwood",
+          "amber"
+        ]
+      },
+      "scentDNA": {
+        "freshness": 42,
+        "sweetness": 30,
+        "warmth": 82,
+        "intensity": 82,
+        "character": 94,
+        "elegance": 96
+      },
+      "exploration": 88,
+      "occasions": {
+        "everyday": 0,
+        "office": 100,
+        "date": 100,
+        "nightlife": 100,
+        "formal": 100,
+        "outdoor": 0,
+        "versatile": 0
+      },
+      "seasons": {
+        "spring": 0,
+        "summer": 0,
+        "autumn": 100,
+        "winter": 100
+      },
+      "confidence": 0.75,
+      "retailers": [],
+      "sources": [],
+      "lastVerified": null,
+      "webGroundingAllowed": true
+    },
+    {
+      "id": "tom-ford-ombre-leather-eau-de-parfum",
+      "brand": "Tom Ford",
+      "name": "Ombre Leather Eau de Parfum",
+      "positioning": "unisex",
+      "families": [
+        "leather",
+        "woody",
+        "amber",
+        "floral"
+      ],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [
+          "cardamom",
+          "leather",
+          "jasmine",
+          "amber",
+          "patchouli"
+        ]
+      },
+      "scentDNA": {
+        "freshness": 38,
+        "sweetness": 30,
+        "warmth": 78,
+        "intensity": 88,
+        "character": 96,
+        "elegance": 90
+      },
+      "exploration": 80,
+      "occasions": {
+        "everyday": 0,
+        "office": 0,
+        "date": 100,
+        "nightlife": 100,
+        "formal": 100,
+        "outdoor": 0,
+        "versatile": 0
+      },
+      "seasons": {
+        "spring": 0,
+        "summer": 0,
+        "autumn": 100,
+        "winter": 100
+      },
+      "confidence": 0.75,
+      "retailers": [],
+      "sources": [],
+      "lastVerified": null,
+      "webGroundingAllowed": true
+    },
+    {
+      "id": "yves-saint-laurent-y-eau-de-parfum",
+      "brand": "Yves Saint Laurent",
+      "name": "Y Eau de Parfum",
+      "positioning": "masculine",
+      "families": [
+        "aromatic",
+        "citrus",
+        "woody",
+        "fruity"
+      ],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [
+          "apple",
+          "bergamot",
+          "ginger",
+          "sage",
+          "cedar",
+          "vetiver"
+        ]
+      },
+      "scentDNA": {
+        "freshness": 82,
+        "sweetness": 42,
+        "warmth": 48,
+        "intensity": 82,
+        "character": 78,
+        "elegance": 82
+      },
+      "exploration": 55,
+      "occasions": {
+        "everyday": 100,
+        "office": 100,
+        "date": 100,
+        "nightlife": 100,
+        "formal": 0,
+        "outdoor": 0,
+        "versatile": 0
+      },
+      "seasons": {
+        "spring": 100,
+        "summer": 100,
+        "autumn": 100,
+        "winter": 100
+      },
+      "confidence": 0.75,
+      "retailers": [],
+      "sources": [],
+      "lastVerified": null,
+      "webGroundingAllowed": true
+    },
+    {
+      "id": "yves-saint-laurent-libre-eau-de-parfum",
+      "brand": "Yves Saint Laurent",
+      "name": "Libre Eau de Parfum",
+      "positioning": "feminine",
+      "families": [
+        "floral",
+        "aromatic",
+        "amber",
+        "citrus"
+      ],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [
+          "lavender",
+          "orange blossom",
+          "jasmine",
+          "vanilla"
+        ]
+      },
+      "scentDNA": {
+        "freshness": 72,
+        "sweetness": 62,
+        "warmth": 62,
+        "intensity": 76,
+        "character": 82,
+        "elegance": 94
+      },
+      "exploration": 62,
+      "occasions": {
+        "everyday": 0,
+        "office": 100,
+        "date": 100,
+        "nightlife": 100,
+        "formal": 100,
+        "outdoor": 0,
+        "versatile": 0
+      },
+      "seasons": {
+        "spring": 100,
+        "summer": 0,
+        "autumn": 100,
+        "winter": 100
+      },
+      "confidence": 0.75,
+      "retailers": [],
+      "sources": [],
+      "lastVerified": null,
+      "webGroundingAllowed": true
+    },
+    {
+      "id": "prada-l-homme-eau-de-toilette",
+      "brand": "Prada",
+      "name": "L'Homme Eau de Toilette",
+      "positioning": "masculine",
+      "families": [
+        "powdery",
+        "aromatic",
+        "woody",
+        "floral"
+      ],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [
+          "neroli",
+          "iris",
+          "amber",
+          "patchouli",
+          "sandalwood"
+        ]
+      },
+      "scentDNA": {
+        "freshness": 68,
+        "sweetness": 28,
+        "warmth": 48,
+        "intensity": 58,
+        "character": 82,
+        "elegance": 94
+      },
+      "exploration": 52,
+      "occasions": {
+        "everyday": 100,
+        "office": 100,
+        "date": 0,
+        "nightlife": 0,
+        "formal": 100,
+        "outdoor": 0,
+        "versatile": 0
+      },
+      "seasons": {
+        "spring": 100,
+        "summer": 0,
+        "autumn": 100,
+        "winter": 100
+      },
+      "confidence": 0.75,
+      "retailers": [],
+      "sources": [],
+      "lastVerified": null,
+      "webGroundingAllowed": true
+    },
+    {
+      "id": "prada-paradoxe-eau-de-parfum",
+      "brand": "Prada",
+      "name": "Paradoxe Eau de Parfum",
+      "positioning": "feminine",
+      "families": [
+        "floral",
+        "amber",
+        "fruity",
+        "woody"
+      ],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [
+          "pear",
+          "orange blossom",
+          "jasmine",
+          "vanilla",
+          "amber"
+        ]
+      },
+      "scentDNA": {
+        "freshness": 68,
+        "sweetness": 68,
+        "warmth": 60,
+        "intensity": 76,
+        "character": 78,
+        "elegance": 92
+      },
+      "exploration": 58,
+      "occasions": {
+        "everyday": 0,
+        "office": 100,
+        "date": 100,
+        "nightlife": 100,
+        "formal": 100,
+        "outdoor": 0,
+        "versatile": 0
+      },
+      "seasons": {
+        "spring": 100,
+        "summer": 0,
+        "autumn": 100,
+        "winter": 100
+      },
+      "confidence": 0.75,
+      "retailers": [],
+      "sources": [],
+      "lastVerified": null,
+      "webGroundingAllowed": true
+    },
+    {
+      "id": "valentino-donna-born-in-roma-eau-de-parfum",
+      "brand": "Valentino",
+      "name": "Donna Born in Roma Eau de Parfum",
+      "positioning": "feminine",
+      "families": [
+        "floral",
+        "woody",
+        "gourmand"
+      ],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [
+          "jasmine",
+          "cashmeran",
+          "vanilla"
+        ]
+      },
+      "scentDNA": {
+        "freshness": 58,
+        "sweetness": 72,
+        "warmth": 62,
+        "intensity": 78,
+        "character": 78,
+        "elegance": 90
+      },
+      "exploration": 55,
+      "occasions": {
+        "everyday": 0,
+        "office": 0,
+        "date": 100,
+        "nightlife": 100,
+        "formal": 100,
+        "outdoor": 0,
+        "versatile": 0
+      },
+      "seasons": {
+        "spring": 0,
+        "summer": 0,
+        "autumn": 100,
+        "winter": 100
+      },
+      "confidence": 0.75,
+      "retailers": [],
+      "sources": [],
+      "lastVerified": null,
+      "webGroundingAllowed": true
+    },
+    {
+      "id": "valentino-uomo-born-in-roma-intense-eau-de-parfum",
+      "brand": "Valentino",
+      "name": "Uomo Born in Roma Intense Eau de Parfum",
+      "positioning": "masculine",
+      "families": [
+        "aromatic",
+        "amber",
+        "gourmand"
+      ],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [
+          "vanilla",
+          "lavandin",
+          "vetiver"
+        ]
+      },
+      "scentDNA": {
+        "freshness": 48,
+        "sweetness": 78,
+        "warmth": 68,
+        "intensity": 86,
+        "character": 76,
+        "elegance": 82
+      },
+      "exploration": 52,
+      "occasions": {
+        "everyday": 0,
+        "office": 0,
+        "date": 100,
+        "nightlife": 100,
+        "formal": 100,
+        "outdoor": 0,
+        "versatile": 0
+      },
+      "seasons": {
+        "spring": 0,
+        "summer": 0,
+        "autumn": 100,
+        "winter": 100
+      },
+      "confidence": 0.75,
+      "retailers": [],
+      "sources": [],
+      "lastVerified": null,
+      "webGroundingAllowed": true
+    },
+    {
+      "id": "giorgio-armani-acqua-di-gio-eau-de-toilette",
+      "brand": "Giorgio Armani",
+      "name": "Acqua di Gio Eau de Toilette",
+      "positioning": "masculine",
+      "families": [
+        "aquatic",
+        "citrus",
+        "aromatic",
+        "woody"
+      ],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [
+          "marine notes",
+          "bergamot",
+          "neroli",
+          "rosemary",
+          "patchouli"
+        ]
+      },
+      "scentDNA": {
+        "freshness": 94,
+        "sweetness": 18,
+        "warmth": 25,
+        "intensity": 68,
+        "character": 72,
+        "elegance": 76
+      },
+      "exploration": 40,
+      "occasions": {
+        "everyday": 100,
+        "office": 100,
+        "date": 0,
+        "nightlife": 0,
+        "formal": 0,
+        "outdoor": 100,
+        "versatile": 0
+      },
+      "seasons": {
+        "spring": 100,
+        "summer": 100,
+        "autumn": 0,
+        "winter": 0
+      },
+      "confidence": 0.75,
+      "retailers": [],
+      "sources": [],
+      "lastVerified": null,
+      "webGroundingAllowed": true
+    },
+    {
+      "id": "giorgio-armani-my-way-eau-de-parfum",
+      "brand": "Giorgio Armani",
+      "name": "My Way Eau de Parfum",
+      "positioning": "feminine",
+      "families": [
+        "floral",
+        "citrus",
+        "woody",
+        "vanilla"
+      ],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [
+          "orange blossom",
+          "tuberose",
+          "jasmine",
+          "vanilla",
+          "cedar"
+        ]
+      },
+      "scentDNA": {
+        "freshness": 65,
+        "sweetness": 60,
+        "warmth": 55,
+        "intensity": 72,
+        "character": 78,
+        "elegance": 90
+      },
+      "exploration": 52,
+      "occasions": {
+        "everyday": 0,
+        "office": 100,
+        "date": 100,
+        "nightlife": 0,
+        "formal": 100,
+        "outdoor": 0,
+        "versatile": 0
+      },
+      "seasons": {
+        "spring": 100,
+        "summer": 0,
+        "autumn": 100,
+        "winter": 100
+      },
+      "confidence": 0.75,
+      "retailers": [],
+      "sources": [],
+      "lastVerified": null,
+      "webGroundingAllowed": true
+    },
+    {
+      "id": "carolina-herrera-good-girl-eau-de-parfum",
+      "brand": "Carolina Herrera",
+      "name": "Good Girl Eau de Parfum",
+      "positioning": "feminine",
+      "families": [
+        "floral",
+        "gourmand",
+        "amber",
+        "woody"
+      ],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [
+          "almond",
+          "coffee",
+          "jasmine",
+          "tonka",
+          "cacao"
+        ]
+      },
+      "scentDNA": {
+        "freshness": 48,
+        "sweetness": 82,
+        "warmth": 70,
+        "intensity": 88,
+        "character": 86,
+        "elegance": 86
+      },
+      "exploration": 62,
+      "occasions": {
+        "everyday": 0,
+        "office": 0,
+        "date": 100,
+        "nightlife": 100,
+        "formal": 100,
+        "outdoor": 0,
+        "versatile": 0
+      },
+      "seasons": {
+        "spring": 0,
+        "summer": 0,
+        "autumn": 100,
+        "winter": 100
+      },
+      "confidence": 0.75,
+      "retailers": [],
+      "sources": [],
+      "lastVerified": null,
+      "webGroundingAllowed": true
+    },
+    {
+      "id": "jean-paul-gaultier-le-male-eau-de-toilette",
+      "brand": "Jean Paul Gaultier",
+      "name": "Le Male Eau de Toilette",
+      "positioning": "masculine",
+      "families": [
+        "aromatic",
+        "amber",
+        "vanilla"
+      ],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [
+          "lavender",
+          "mint",
+          "vanilla",
+          "cinnamon",
+          "sandalwood"
+        ]
+      },
+      "scentDNA": {
+        "freshness": 60,
+        "sweetness": 68,
+        "warmth": 68,
+        "intensity": 78,
+        "character": 82,
+        "elegance": 80
+      },
+      "exploration": 50,
+      "occasions": {
+        "everyday": 100,
+        "office": 0,
+        "date": 100,
+        "nightlife": 100,
+        "formal": 0,
+        "outdoor": 0,
+        "versatile": 0
+      },
+      "seasons": {
+        "spring": 0,
+        "summer": 0,
+        "autumn": 100,
+        "winter": 100
+      },
+      "confidence": 0.75,
+      "retailers": [],
+      "sources": [],
+      "lastVerified": null,
+      "webGroundingAllowed": true
+    },
+    {
+      "id": "jean-paul-gaultier-le-beau-le-parfum",
+      "brand": "Jean Paul Gaultier",
+      "name": "Le Beau Le Parfum",
+      "positioning": "masculine",
+      "families": [
+        "woody",
+        "gourmand",
+        "amber",
+        "fruity"
+      ],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [
+          "coconut",
+          "tonka",
+          "pineapple",
+          "amberwood"
+        ]
+      },
+      "scentDNA": {
+        "freshness": 55,
+        "sweetness": 78,
+        "warmth": 72,
+        "intensity": 88,
+        "character": 82,
+        "elegance": 78
+      },
+      "exploration": 62,
+      "occasions": {
+        "everyday": 0,
+        "office": 0,
+        "date": 100,
+        "nightlife": 100,
+        "formal": 0,
+        "outdoor": 100,
+        "versatile": 0
+      },
+      "seasons": {
+        "spring": 0,
+        "summer": 100,
+        "autumn": 100,
+        "winter": 100
+      },
+      "confidence": 0.75,
+      "retailers": [],
+      "sources": [],
+      "lastVerified": null,
+      "webGroundingAllowed": true
+    },
+    {
+      "id": "azzaro-the-most-wanted-eau-de-parfum-intense",
+      "brand": "Azzaro",
+      "name": "The Most Wanted Eau de Parfum Intense",
+      "positioning": "masculine",
+      "families": [
+        "amber",
+        "woody",
+        "gourmand",
+        "spicy"
+      ],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [
+          "cardamom",
+          "toffee",
+          "amberwood"
+        ]
+      },
+      "scentDNA": {
+        "freshness": 38,
+        "sweetness": 84,
+        "warmth": 78,
+        "intensity": 94,
+        "character": 86,
+        "elegance": 82
+      },
+      "exploration": 55,
+      "occasions": {
+        "everyday": 0,
+        "office": 0,
+        "date": 100,
+        "nightlife": 100,
+        "formal": 0,
+        "outdoor": 0,
+        "versatile": 0
+      },
+      "seasons": {
+        "spring": 0,
+        "summer": 0,
+        "autumn": 100,
+        "winter": 100
+      },
+      "confidence": 0.75,
+      "retailers": [],
+      "sources": [],
+      "lastVerified": null,
+      "webGroundingAllowed": true
+    },
+    {
+      "id": "narciso-rodriguez-for-her-eau-de-parfum",
+      "brand": "Narciso Rodriguez",
+      "name": "For Her Eau de Parfum",
+      "positioning": "feminine",
+      "families": [
+        "musk",
+        "floral",
+        "woody",
+        "amber"
+      ],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [
+          "musk",
+          "rose",
+          "peach",
+          "patchouli",
+          "amber"
+        ]
+      },
+      "scentDNA": {
+        "freshness": 62,
+        "sweetness": 42,
+        "warmth": 55,
+        "intensity": 64,
+        "character": 82,
+        "elegance": 92
+      },
+      "exploration": 58,
+      "occasions": {
+        "everyday": 100,
+        "office": 100,
+        "date": 100,
+        "nightlife": 0,
+        "formal": 100,
+        "outdoor": 0,
+        "versatile": 0
+      },
+      "seasons": {
+        "spring": 100,
+        "summer": 0,
+        "autumn": 100,
+        "winter": 100
+      },
+      "confidence": 0.75,
+      "retailers": [],
+      "sources": [],
+      "lastVerified": null,
+      "webGroundingAllowed": true
+    },
+    {
+      "id": "sol-de-janeiro-cheirosa-62-perfume-mist",
+      "brand": "Sol de Janeiro",
+      "name": "Cheirosa 62 Perfume Mist",
+      "positioning": "unisex",
+      "families": [
+        "gourmand",
+        "fruity",
+        "woody",
+        "amber"
+      ],
+      "notes": {
+        "top": [],
+        "heart": [],
+        "base": [
+          "pistachio",
+          "salted caramel",
+          "vanilla",
+          "sandalwood"
+        ]
+      },
+      "scentDNA": {
+        "freshness": 52,
+        "sweetness": 92,
+        "warmth": 68,
+        "intensity": 55,
+        "character": 72,
+        "elegance": 68
+      },
+      "exploration": 38,
+      "occasions": {
+        "everyday": 100,
+        "office": 0,
+        "date": 100,
+        "nightlife": 0,
+        "formal": 0,
+        "outdoor": 100,
+        "versatile": 0
+      },
+      "seasons": {
+        "spring": 100,
+        "summer": 100,
+        "autumn": 100,
+        "winter": 0
+      },
+      "confidence": 0.75,
+      "retailers": [],
+      "sources": [],
+      "lastVerified": null,
+      "webGroundingAllowed": true
+    }
+  ]
+}

@@ -1,0 +1,169 @@
+{
+  "version": "1.0.0",
+  "dimensions": [
+    "freshness",
+    "sweetness",
+    "warmth",
+    "intensity",
+    "character",
+    "elegance"
+  ],
+  "archetypes": [
+    {
+      "id": "fresh-minimalist",
+      "name": "The Fresh Minimalist",
+      "tagline": "Fresh \u2022 Clean \u2022 Airy",
+      "scentDNA": {
+        "freshness": 90,
+        "sweetness": 25,
+        "warmth": 30,
+        "intensity": 35,
+        "character": 55,
+        "elegance": 70
+      }
+    },
+    {
+      "id": "modern-sophisticate",
+      "name": "The Modern Sophisticate",
+      "tagline": "Refined \u2022 Polished \u2022 Distinctive",
+      "scentDNA": {
+        "freshness": 70,
+        "sweetness": 30,
+        "warmth": 50,
+        "intensity": 60,
+        "character": 80,
+        "elegance": 90
+      }
+    },
+    {
+      "id": "warm-charmer",
+      "name": "The Warm Charmer",
+      "tagline": "Warm \u2022 Inviting \u2022 Smooth",
+      "scentDNA": {
+        "freshness": 40,
+        "sweetness": 70,
+        "warmth": 85,
+        "intensity": 65,
+        "character": 65,
+        "elegance": 70
+      }
+    },
+    {
+      "id": "dark-romantic",
+      "name": "The Dark Romantic",
+      "tagline": "Mysterious \u2022 Warm \u2022 Memorable",
+      "scentDNA": {
+        "freshness": 25,
+        "sweetness": 55,
+        "warmth": 80,
+        "intensity": 75,
+        "character": 95,
+        "elegance": 80
+      }
+    },
+    {
+      "id": "bold-presence",
+      "name": "The Bold Presence",
+      "tagline": "Powerful \u2022 Distinctive \u2022 Confident",
+      "scentDNA": {
+        "freshness": 40,
+        "sweetness": 50,
+        "warmth": 65,
+        "intensity": 95,
+        "character": 85,
+        "elegance": 70
+      }
+    },
+    {
+      "id": "natural-soul",
+      "name": "The Natural Soul",
+      "tagline": "Green \u2022 Relaxed \u2022 Authentic",
+      "scentDNA": {
+        "freshness": 75,
+        "sweetness": 25,
+        "warmth": 40,
+        "intensity": 40,
+        "character": 75,
+        "elegance": 55
+      }
+    },
+    {
+      "id": "playful-spirit",
+      "name": "The Playful Spirit",
+      "tagline": "Bright \u2022 Sweet \u2022 Energetic",
+      "scentDNA": {
+        "freshness": 75,
+        "sweetness": 75,
+        "warmth": 40,
+        "intensity": 60,
+        "character": 60,
+        "elegance": 50
+      }
+    },
+    {
+      "id": "quiet-luxury",
+      "name": "The Quiet Luxury",
+      "tagline": "Refined \u2022 Understated \u2022 Luxurious",
+      "scentDNA": {
+        "freshness": 60,
+        "sweetness": 30,
+        "warmth": 50,
+        "intensity": 45,
+        "character": 80,
+        "elegance": 98
+      }
+    },
+    {
+      "id": "nightlife-icon",
+      "name": "The Nightlife Icon",
+      "tagline": "Bold \u2022 Warm \u2022 Magnetic",
+      "scentDNA": {
+        "freshness": 45,
+        "sweetness": 65,
+        "warmth": 70,
+        "intensity": 95,
+        "character": 90,
+        "elegance": 75
+      }
+    },
+    {
+      "id": "clean-classic",
+      "name": "The Clean Classic",
+      "tagline": "Fresh \u2022 Polished \u2022 Timeless",
+      "scentDNA": {
+        "freshness": 85,
+        "sweetness": 20,
+        "warmth": 35,
+        "intensity": 50,
+        "character": 65,
+        "elegance": 80
+      }
+    },
+    {
+      "id": "creative-explorer",
+      "name": "The Creative Explorer",
+      "tagline": "Unusual \u2022 Artistic \u2022 Distinctive",
+      "scentDNA": {
+        "freshness": 50,
+        "sweetness": 50,
+        "warmth": 55,
+        "intensity": 65,
+        "character": 100,
+        "elegance": 65
+      }
+    },
+    {
+      "id": "comfort-seeker",
+      "name": "The Comfort Seeker",
+      "tagline": "Warm \u2022 Sweet \u2022 Cozy",
+      "scentDNA": {
+        "freshness": 35,
+        "sweetness": 70,
+        "warmth": 90,
+        "intensity": 45,
+        "character": 55,
+        "elegance": 55
+      }
+    }
+  ]
+}
